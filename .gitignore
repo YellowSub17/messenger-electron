@@ -1,0 +1,4 @@
+node_modules/
+Messenger-darwin-arm64/
+*.log
+.DS_Store
